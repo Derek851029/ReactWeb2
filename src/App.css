@@ -1,0 +1,5 @@
+@import "antd/dist/antd.css";
+
+.ant-form-item-extra{
+    color:red !important
+}
